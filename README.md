@@ -13,6 +13,6 @@ Welcome to the official repository of the Pupils Committee of Alicante! Our webs
 Please note that this repository is not open-source since it is developed by the PC IT team. It's dedicated to providing the official information and resources for our school community.
 
 🔗 Website: [https://pceea.com/]
-📢 Contact Us: [mailto:ALI-PUPILS-COMMITTEE@student.eursc.eu]
+📢 Contact Us: [mail_to:ALI-PUPILS-COMMITTEE@student.eursc.eu]
 
 Join us in celebrating and supporting the Pupils Committee of Alicante. Together, we empower our students and strengthen our school community! 🎓
