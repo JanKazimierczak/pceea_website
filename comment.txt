@@ -1,0 +1,145 @@
+ 
+<div class="section-title" id="Treasurers"  data-aos="fade-up" data-aos-delay="300">
+            <h1>Members</h1>
+          </div>
+          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+            <div class="member" data-aos="fade-up" data-aos-delay="300">
+              <div class="member-img">
+                <img src="../images/PC-Members/RoundPics/Sofija.png" class="img-fluid" alt="">
+                <div class="social">
+                <!--   <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a> -->
+                </div>
+            </div>
+            <div class="member-info">
+              <h4>Sofija Pubule</h4>
+              <span>Member</span>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+          <div class="member" data-aos="fade-up" data-aos-delay="300">
+            <div class="member-img">
+              <img src="../images/PC-Members/RoundPics/Enzo.png" class="img-fluid" alt="">
+              <div class="social">
+              <!--   <a href=""><i class="bi bi-twitter"></i></a>
+                <a href=""><i class="bi bi-facebook"></i></a>
+                <a href=""><i class="bi bi-instagram"></i></a>
+                <a href=""><i class="bi bi-linkedin"></i></a> -->
+              </div>
+            </div>
+            <div class="member-info">
+              <h4>Enzo Gadeo Santamaria</h4>
+              <span>Member</span>
+            </div>
+          </div>
+        </div>
+      <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+        <div class="member" data-aos="fade-up" data-aos-delay="300">
+          <div class="member-img">
+            <img src="../images/PC-Members/RoundPics/Daniel.png" class="img-fluid" alt="">
+            <div class="social">
+             <!--  <a href=""><i class="bi bi-twitter"></i></a>
+              <a href=""><i class="bi bi-facebook"></i></a>
+              <a href=""><i class="bi bi-instagram"></i></a>
+              <a href=""><i class="bi bi-linkedin"></i></a> -->
+            </div>
+          </div>
+          <div class="member-info">
+            <h4>Daniel Garcia del Campo</h4>
+            <span>Member</span>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+        <div class="member" data-aos="fade-up" data-aos-delay="300">
+          <div class="member-img">
+            <img src="../images/PC-Members/RoundPics/Antonio.png" class="img-fluid" alt="">
+            <div class="social">
+          <!--     <a href=""><i class="bi bi-twitter"></i></a>
+              <a href=""><i class="bi bi-facebook"></i></a>
+              <a href=""><i class="bi bi-instagram"></i></a>
+              <a href=""><i class="bi bi-linkedin"></i></a> -->
+            </div>
+          </div>
+          <div class="member-info">
+            <h4>Antonio Thuesen Arbeláez</h4>
+            <span>Member</span>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+        <div class="member" data-aos="fade-up" data-aos-delay="300">
+          <div class="member-img">
+            <img src="../images/PC-Members/RoundPics/Olivia.png" class="img-fluid" alt="">
+            <div class="social">
+           <!--    <a href=""><i class="bi bi-twitter"></i></a>
+              <a href=""><i class="bi bi-facebook"></i></a>
+              <a href=""><i class="bi bi-instagram"></i></a>
+              <a href=""><i class="bi bi-linkedin"></i></a> -->
+            </div>
+          </div>
+          <div class="member-info">
+            <h4>Olivia Miche</h4>
+            <span>Member</span>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+        <div class="member" data-aos="fade-up" data-aos-delay="300">
+          <div class="member-img">
+            <img src="../images/PC-Members/RoundPics/Mandi.png" class="img-fluid" alt="">
+            <div class="social">
+          <!--     <a href=""><i class="bi bi-twitter"></i></a>
+              <a href=""><i class="bi bi-facebook"></i></a>
+              <a href=""><i class="bi bi-instagram"></i></a>
+              <a href=""><i class="bi bi-linkedin"></i></a> -->
+            </div>
+          </div>
+          <div class="member-info">
+            <h4>Mandi Puig</h4>
+            <span>Member</span>
+          </div>
+        </div>
+      </div>
+
+    <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+      <div class="member" data-aos="fade-up" data-aos-delay="300">
+        <div class="member-img">
+          <img src="../images/PC-Members/RoundPics/Max.png" class="img-fluid" alt="">
+          <div class="social">
+          <!--   <a href=""><i class="bi bi-twitter"></i></a>
+            <a href=""><i class="bi bi-facebook"></i></a>
+            <a href=""><i class="bi bi-instagram"></i></a>
+            <a href=""><i class="bi bi-linkedin"></i></a> -->
+          </div>
+        </div>
+        <div class="member-info">
+          <h4>Máximo Mareque</h4>
+          <span>Member</span>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+      <div class="member" data-aos="fade-up" data-aos-delay="300">
+        <div class="member-img">
+          <img src="../images/PC-Members/RoundPics/Sarah.png" class="img-fluid" alt="">
+          <div class="social">
+           <!--  <a href=""><i class="bi bi-twitter"></i></a>
+            <a href=""><i class="bi bi-facebook"></i></a>
+            <a href=""><i class="bi bi-instagram"></i></a>
+            <a href=""><i class="bi bi-linkedin"></i></a> -->
+          </div>
+        </div>
+        <div class="member-info">
+          <h4>Sarah Meyer Josten</h4>
+          <span>Member</span>
+        </div>
+      </div>
+    </div>
+    </div>
+    </div>
+
+
